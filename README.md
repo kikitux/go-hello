@@ -1,5 +1,5 @@
 # Go Example: Hello World
 
-Tarvis passed:
+Travis passed:
 
 ![master badge](https://travis-ci.org/chavo1/go-hello.svg?branch=master)
